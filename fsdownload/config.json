@@ -1,0 +1,20 @@
+{
+    "rpc_url": "https://solana-rpc.publicnode.com/f884f7c2cfa0e7ecbf30e7da70ec1da91bda3c9d04058269397a5591e7fd013e",
+    "target_wallets": [
+        "CuwxHwz42cNivJqWGBk6HcVvfGq47868Mo6zi4u6z9vC"
+    ],
+    "copy_wallet_private_key": "VrjqiZtfeYpeZsbENUMov553fsegYKMoMk2Fnh82wn9Yu2fCNfPUTFBZpkGcezP6SZhEgWcKJfhoVaAYpFYSG3U",
+    "trading_settings": {
+        "max_position_size": 0.1,
+        "slippage_tolerance": 0.2,
+        "gas_price_multiplier": 1.2
+    },
+    "execution_config": {
+        "enabled": true,
+        "min_trade_amount": 0.001,
+        "max_trade_amount": 0.001,
+        "max_position_size": 0.1,
+        "slippage_tolerance": 0.2,
+        "gas_price_multiplier": 1.2
+    }
+}

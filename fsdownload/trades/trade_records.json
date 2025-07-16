@@ -1,0 +1,3150 @@
+{
+  "timestamp": "2025-07-14T01:13:02.768892Z",
+  "original_signature": "42WZeRsRsZSxY3WrdoyPQr8HFAcpjQUhAKMjj52QmNUtRAnX9g16fhQDebreU5jwHifukugxhxGHA5SEQ1WtWCmm",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 25205000,
+  "amount_out": 384359799113,
+  "price": 0.00006557657709824603,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T01:13:10.496739700Z",
+  "original_signature": "5VMn4i7L56esoTRt7AYFtWcZNYeMmneADq8oJMwV2F7nNbX6y3dyWEwxXhM8JrXMDX8nmsosDckPDEDKCCLA3q6m",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 25205000,
+  "amount_out": 289919402347,
+  "price": 0.00008693795515566264,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T01:13:20.914759900Z",
+  "original_signature": "5hZCsbyCNfEJxPUtNL4nHetapEiaQXzDA8UGKJkJYhLTBzYxTfAyQJqgpQ46q327L4uT1XrHSzsUSaePaPef7z82",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1505000,
+  "amount_out": 1175147072000,
+  "price": 1.2806907627643734e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T01:13:27.374322300Z",
+  "original_signature": "4Ch7qoa4z3B4rHG8NcmRy3MF5AHHSf5RGAxws5AEW6zU95F3b1SPJhHa7JMzbKq277vNPof3mbHJmVM4Mev3khKN",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 6205000,
+  "amount_out": 46797329008,
+  "price": 0.00013259303749876955,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T01:14:09.734152Z",
+  "original_signature": "4KhHQj2SV4gUPDZ1bAACdzx1uyAfPo3GQh384gMiPCqahiBKu9cRbzybqo1CPPZf5z5WAP6PfwSoRgnB1iUrfGSe",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1505000,
+  "amount_out": 384359799000,
+  "price": 3.915602006025609e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T01:14:26.814167Z",
+  "original_signature": "5ge2ZyGn46ffeL8yNKt1S3sTRpadD3CfYjGA4UVw8uvCvE5o8qj32GdkHZPPcxWHEZEBSLcex652ciF5iRUUSCxN",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 24505000,
+  "amount_out": 926724046687,
+  "price": 0.00002644260725466697,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T01:14:36.023182800Z",
+  "original_signature": "2oDm3HgKunzGSPsS3Lx1BcVQ3zKM3AHv4AZv4kcQg7fRaXi8gtScXKDTAGfYNjW7qrza2qGuXrmmU8xdKvpGcwiT",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1505000,
+  "amount_out": 926724046000,
+  "price": 1.6240001611008159e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T01:14:42.015557600Z",
+  "original_signature": "4NawJhXhPFnNsTBwdogApSKyDReUZ91BscGWMVK7ZcWDneGtyhnvJKa9czwdxLpiN7oz29RabDijLiXebgo9tkJq",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2505000,
+  "amount_out": 890857579024,
+  "price": 2.8118972762676743e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T01:15:26.608055Z",
+  "original_signature": "5V7FHD4Gw9Hov1qn2MtHFhyiXDCgA7HwDb7yd9CgRhfZe7gqgkBJifiWkwBzcPvznGL7HsxeXTQPyx3vo26YLAix",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1934400,
+  "amount_out": 61320174000,
+  "price": 0.00003154589874451433,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T01:19:41.249398700Z",
+  "original_signature": "5x6vZ6qWJqu5ReFnWfib6Uj3L84ys4QoHTtVSScJrUBpRZVwJVhKBmC7CvtmnLRYe5VpBJnh6FXsqugJ8DYJwTJX",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 25205000,
+  "amount_out": 358824497458,
+  "price": 0.00007024325311833041,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T01:40:40.110346300Z",
+  "original_signature": "JzbMB6oDGFCA27JXHWdA4PHDyJhXbP96ZhG57MsR5tQ2qxo54nNgs2NxoLQck5rMZrAvNBBsfSNsFotRcraqWTX",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1505000,
+  "amount_out": 537644487000,
+  "price": 2.799247525809746e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:01:29.609246300Z",
+  "original_signature": "4nidcgkP2UfLiyCe9Yz9gMjf5X2ZrxG6QXFbW8ADLYacSBPVtCqcQCwNJmehMXm5F6mYWXsBpnF5jy6hA7nUKXUF",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2505000,
+  "amount_out": 1464987082555,
+  "price": 1.7099126878519454e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:01:39.433358700Z",
+  "original_signature": "66Rrty8c18kV7p3zJ7PkmRVaEsSv1U1Lvihk9VQSDWLpxQhiwhMVa8aUWV92pCYrv3kAHqeJ2NVGKdw6xDbyLT1f",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 24505000,
+  "amount_out": 702948576609,
+  "price": 0.000034860302467943366,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:10:52.318342600Z",
+  "original_signature": "i21SQ4qwoU4jM58LA5VNen1Rgvf5AK1z3tK7H2v4treYgkot3meW5teWJ6RJXWgTLXQcXECbzwadv69gZJvTc3k",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 35005000,
+  "amount_out": 218565696852,
+  "price": 0.0001601577946776495,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:17:18.579355300Z",
+  "original_signature": "4VyABzVkUw7sJfkniQj3wJb35kbyxiZzr3vzjcwEEtRQgrHExXiM9fuoCdEAB2GWeNFZv1QXFvoZLjVuKZUwmvQz",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 35205000,
+  "amount_out": 1056204267537,
+  "price": 0.00003333162067418623,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:35:50.652029Z",
+  "original_signature": "2rKosuZh6P3E7iPK7ndZe9k5hbjpoFSKfLTAV6QdpSnZmEe86NR1ePkvoUkeHxqB2JE4QT6wcA2Xp47QppvBwDua",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 338337171000,
+  "amount_out": 2412078973,
+  "price": 0.007129216591457519,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:36:03.124511300Z",
+  "original_signature": "4zqGbtoTrkJpXeCTUnwkWBNyHA4GATrGe6pUR16MBcKDdzsAwG8iBo6Mp6V4Lb9Z3PxmGuGV4sUExSTdXvyfafgE",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 1600000000,
+  "amount_out": 235739817179,
+  "price": 0.006787143636346767,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:36:46.683311600Z",
+  "original_signature": "2QPsmQG7ircgH8BdXhW53tMiNbjCXt2rAVwXpFGZAiwSoz7ATDZavF3jM3zjtDw2xaK4m1YgEcV9EQwzkvPFojof",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 235739817000,
+  "amount_out": 1776759443,
+  "price": 0.007536950972520692,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:37:08.144072500Z",
+  "original_signature": "3PwNTWsewGhHu7TtkKsXSayRark6eqXPA6uJzovUeXEmJRTk82fRrVhLcrFCegVEtNLp1hZDvUAVDt6Ekf5i19yc",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 177308091000,
+  "amount_out": 2487007383,
+  "price": 0.014026474307932175,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:37:33.482662300Z",
+  "original_signature": "PuyBbLapj85ECRcKutaTSj18DU1DJBJ9R1hCyA5PzFBVjsqa3ezp5nMx1ijnTSqTFuwGjsUpgdTzAyeR5SGXwrR",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 1450000000,
+  "amount_out": 106833823866,
+  "price": 0.013572480582729233,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:38:05.804932800Z",
+  "original_signature": "KKMgjNBJBUk9fh4PhFRwET4jgGsA517TAJnc4DHxVu1z9iYqYen4damXkq8cgsWxMT8mQ3Ku8mFy4BYqBP1Hjni",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 1550000000,
+  "amount_out": 205376171825,
+  "price": 0.007547126749059999,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:38:18.676251700Z",
+  "original_signature": "3dyuzTTjz3xsWWGpnYzLwArWiBvQbiVPLiHbaKsdf4n67SW6d8qZ9RRFjiyQofDjuVxddMSwGifkFX6WUoXMHvqw",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 106833823000,
+  "amount_out": 1554228197,
+  "price": 0.01454809116959149,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:39:18.815448700Z",
+  "original_signature": "2xcaNruZVobJEs6vEjjEQUQF8YrKcJTjCGMsHyxSQrwQPdbMGcsQDQXkJaW1n3vaupJtH54SVxwLRWew1FGiGaH1",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 2850000000,
+  "amount_out": 51691461863,
+  "price": 0.055134830729946696,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:51:05.226373Z",
+  "original_signature": "2qATa8VgzspkbMCAKB6MYQjxYt2ZfSSF8Vp7XVQ5E19UgQ6U4o85yHKDGAb8JfDEg2pJZknbL6jiR4qiVw4K48h3",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 804241739000,
+  "amount_out": 1502605363,
+  "price": 0.0018683503853808314,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:56:41.865915400Z",
+  "original_signature": "5iuje5vMK7JyYSdETR1rDVE58mLqEUke7MC2HcH2zxXsT94i5117VNDvJeTCLXbs2pWccRwC2cB6iLH5DXMKniU5",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 191007643000,
+  "amount_out": 1630292540,
+  "price": 0.008535221493728394,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T15:58:01.235877300Z",
+  "original_signature": "SVm5f7usUFVkKusVu6JnhQ9WJ9UyAJzndGfxyQvYHLnUx4Gny8XvxWN5qLa6gSJpLJXk6b9W5YAFWTjfxohgxvp",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 1920000000,
+  "amount_out": 220777342501,
+  "price": 0.008696544574048868,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:05:04.194707200Z",
+  "original_signature": "DWWdLjARxV4nnqdn2PGKFN3XSt7rHoYoXtAivR9xor48is8eNgQHKZBMLkxbWmZdRXUYk944R8ACtEHYtv29E3M",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 2820000000,
+  "amount_out": 22770786015,
+  "price": 0.12384289229815591,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:05:10.737127400Z",
+  "original_signature": "A4VVozXpxDoxn359ynUtitnxyMyXBj3n9xd11tsKRYRxxvUBnVYXaBqkitMG1A8BZMBW5aWci3TTAAYByzuAMyz",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 261403705000,
+  "amount_out": 1844877391,
+  "price": 0.007057579352213084,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:06:00.466480700Z",
+  "original_signature": "66HK4z3VkAvZC6xsAtJGMdWSoS7YtL3af1GiFK8VT6WRZvxpzz49FNehngCCLTc5uKa8JGAYhw1zaWZpiSZTaS5D",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 1670000000,
+  "amount_out": 2617861286102,
+  "price": 0.0006379253205148363,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:06:02.166156400Z",
+  "original_signature": "5zryw2vvhqUkNFMpaCQ8zCM8nWGhQw6K36U43nvXhGxSEPnYTy3hMPWBfatNE1avDh8dGCYWmvV1dGA1RNYjAjLp",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 1890000000,
+  "amount_out": 525891386308,
+  "price": 0.0035938979972056037,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:06:10.138405500Z",
+  "original_signature": "2Wee4NXmiehGdAJ6ykDLG48DJNfv2wyELdEM2uRAmdR4y16yVz1cY5MNuWZZyKK14EmTuDLHWqh9YLP5gvNzFyRH",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 6261692668000,
+  "amount_out": 1107114857,
+  "price": 0.00017680760070800717,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:06:56.788610500Z",
+  "original_signature": "58Ck4p53F6TSYNtdy4R5cA8mjEbc6ekkW7vNxK8mCqd7WKXuxck9QmKt3QztbnCLkyq1cxqszP4KnT8YpbtjZRvf",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 991638753000,
+  "amount_out": 3932484215,
+  "price": 0.00396564192666238,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:07:06.839690600Z",
+  "original_signature": "yMGEi7bobXYyjsxdgqpsfv7of2KD6NKDoFqj5JXVfHR1DVBnCe6SV5PgbDXzBJULJDNKcQwh3kM8PNUjmbJyga4",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 1217159057000,
+  "amount_out": 3250264264,
+  "price": 0.002670369369810309,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:12:42.730163600Z",
+  "original_signature": "2ugCBmCzADxuYZYzP9pzQvpF8rPiUMbX1Gh3KLqXbac4GYLapUNfWohBpcDFX27vv7hoU72jwpVDm3xdJBaXj7AH",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 2880000000,
+  "amount_out": 242752580814,
+  "price": 0.011863931540265235,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:12:58.115005200Z",
+  "original_signature": "4wPPm8cXoXzgMLKnL63mtCAVaJdWECueighFZ6WBJdcfFNFyPyTX7WmzUNBTRVSsJPHcdmUw5wwm4dxDyixPiyT",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 59227555000,
+  "amount_out": 1120402638,
+  "price": 0.01891691524325122,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:20:10.556127600Z",
+  "original_signature": "MsEkjbPvfjGngr1r3Vg97pQPYnawt2xzNgM77N2UBGJXQqQ2ok7SfX5e4Cgih4idSARJc53C5tbB2TXA9JN16NZ",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 2150000000,
+  "amount_out": 1669025196516,
+  "price": 0.0012881770775468272,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:20:13.068472400Z",
+  "original_signature": "23SKD6UbD2SaaQLa5X3i3drH6HniYpEb3tRoA6s8PX6XY3XubBYQLyKSqjVocW5NMXGNJCvvEW8Mkkztcv69QgGt",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 960000000,
+  "amount_out": 51755194254,
+  "price": 0.018548862850143868,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:21:10.495431300Z",
+  "original_signature": "2MvxNXYrva4YZ51WhhoiJW3LT6DfbyKzEwGxgp2wcDvFBViH1qvmrXZanz95JtRpaM646Jo3LDiAnfrASqYtPWZm",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 3640000000,
+  "amount_out": 2586046493139,
+  "price": 0.0014075539668978218,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:21:11.534827400Z",
+  "original_signature": "5km7VpcBfT3pV2pFHJQtzaP8zkWpUcgo15f2v9zN6v3tBWHH74YBH51jZ9AsEiWUuv4qLaHyafc7RfggWr694a3S",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 2586046493000,
+  "amount_out": 3929854207,
+  "price": 0.0015196378787610608,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:21:46.316795900Z",
+  "original_signature": "59DMwiTqF6GypGiV5wRRcJdDghKqw4J24CvRBySYHAZH372jq56PLPi8abPW6KTejJ9HRJUMLLwgifzdgSphE2hj",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "WSOL",
+  "token_out_symbol": null,
+  "amount_in": 3075476628000,
+  "amount_out": 4870463336,
+  "price": 0.0015836450492447054,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:24:43.538756900Z",
+  "original_signature": "3KKvTZvdx88D8FJYugavJyaV1yzfjPnZv3XVQrdJUg3Cnpw4tXjHmdpYGmqeY2Ho74zrcBe8ScQjNiizakribioS",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": null,
+  "amount_in": 699250661000,
+  "amount_out": 2997288708,
+  "price": 0.0042864295669217825,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:25:22.374468100Z",
+  "original_signature": "22sxJc2ZZmfDmdQ8ctL2genDDYzYH2TwnFpG1NLsM4AsRsg6qpgkaXxAa14UT1L9XCuciT6xo6M23p7PZMW5qbQh",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": null,
+  "amount_in": 51755194000,
+  "amount_out": 1065044895,
+  "price": 0.020578512274536154,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:25:34.130654100Z",
+  "original_signature": "2wC7VfzDNLtWgRe6mJuKeZ9vSmz35hDzhagF6HtAusXJMQWP6ZiC8bB5V43nkrWpVRgSmJW4n7NBiknvtE31YS3y",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": null,
+  "amount_in": 1520000000,
+  "amount_out": 405386629797,
+  "price": 0.0037495069848779913,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:33:58.338750800Z",
+  "original_signature": "3HP4jwRV5jsMc2MhUqk4bkW8oMt21Wcs43sHBq8NUpLZmWAY39sH1FgPJ8QFJcTUgL5RhrnH79qK9wobHMHTYUfh",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 241263387000,
+  "amount_out": 2123794137,
+  "price": 0.008802803290662582,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:35:03.341106300Z",
+  "original_signature": "5b364Kiazn4FCAUbXBcg7T3ZAZB2TkZ11wx3Re9JMJ28ZYjwEoVCFWT9HFSruE5m61i53xvu8nbQb5bm94uKoRi",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1380000000,
+  "amount_out": 153631017993,
+  "price": 0.008982561061093,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:35:50.143266300Z",
+  "original_signature": "2enVg2JviYrKLxSfogL4v9j5RQi6Z2nhr9kk4Jvz2qaiMd3shkL9R5uiyqvKB3Cp3QHVKJvdHNhiQyA3ftBgdas5",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 153631017000,
+  "amount_out": 1543956933,
+  "price": 0.010049773562326935,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:37:11.454467400Z",
+  "original_signature": "LMuiKWewxAexMxgC31DAVmudTo6hxEMmNd9XbqStz9LGBB8hgpjjgF4CJiHvqkDqSYHPAW9MqwhJF3X5djJ9yaa",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1560000000,
+  "amount_out": 149098266391,
+  "price": 0.0104628983137135,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:37:50.274857900Z",
+  "original_signature": "3CuzGHphPpkLKCf3z5BrpBiynjBnuao11TTNLkxCqwWtjyTa3wB5Ye32n5LiTFDuTnHqwH7kC3Xid2sA5FPyydRC",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 242752580000,
+  "amount_out": 3125243460,
+  "price": 0.012874192562649591,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:37:59.571796800Z",
+  "original_signature": "4QBVBNfirwMEDCQKksScJyAJ2ypVc81FExpbcD65sbuRxPPpDxqeYwbkVs7iLir6L5k24BPzKvP4baNpy5Uod74d",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 149098266000,
+  "amount_out": 1669808446,
+  "price": 0.011199382063906766,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:38:38.295063200Z",
+  "original_signature": "iZhfXXopdYjuyiWrufPzMyECCydkB4V3trAfw6KFLpC6RfPnw7r1877f4dvwSRBR2obAUF3XmLZRwxa3ky3uWJZ",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3000000000,
+  "amount_out": 295285813055,
+  "price": 0.010159648270813537,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:38:42.656497100Z",
+  "original_signature": "3pN2DUuRqhWfPK516agVdmBapPNJisPdRecMqJvXvta73KZtZKxcFqFcqXB4Ys3WBeeQFUzjEubWTBEp5MVxFwUp",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 295285813000,
+  "amount_out": 3187552654,
+  "price": 0.010794804605123375,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:38:54.382647700Z",
+  "original_signature": "5zCUL4B6tzRaboSWXAcwfnT6oiMZqQUmjvtuTqtkaPfUmFSkyr1QBQS55y8WesYXikW23KMu6bwyhoXqYcTbuxRM",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1500000000,
+  "amount_out": 130380912741,
+  "price": 0.011504751489044493,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:38:58.793938400Z",
+  "original_signature": "3c5zg9YMyAca8sK9haLAArxrZioiQDEHVseCn7wpfctujXgYBxhbJvFCYgdnhmEs9qe6FVZ9dGCvEYjKUNzUSDs9",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 130380912000,
+  "amount_out": 1620302865,
+  "price": 0.012427454603170747,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:39:07.199907900Z",
+  "original_signature": "2RfkoKxs1jJVcdRY2L5EgVrH3vrWoiric6APYTHK8Jn8xegMH5BKp17BPKcAEuxWNYxaUQNfeMWytzqRyGiCNe5",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1400000000,
+  "amount_out": 120181333859,
+  "price": 0.01164906358621812,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:39:20.632744100Z",
+  "original_signature": "VUMM3XVUuJtBL5hYD2HTSymmi9mWabMbheFL3MmuXvHiHF1p5bR3myXzUeeatSk9vnSb2BRTy7Ubnoip3vh9vyC",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 120181333000,
+  "amount_out": 1563123375,
+  "price": 0.013006374084734108,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:40:17.480827900Z",
+  "original_signature": "Pnjoy5Cdm4pXefyepmoApiDSqQ6qFxXgm1yAW9k4QeMz463hMen9J35PCuphnYBxVDniPYvTTKaLPvkUT1ckGvA",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1750000000,
+  "amount_out": 140128986080,
+  "price": 0.012488493986539805,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:53:03.748071700Z",
+  "original_signature": "2bH5SHzd6b4Wa2uaBanfcUvPLA5usFVkY8yVfUDvtLD6MfcorEy6HwzojqSqN8kBzTNKsxH5z6T23Qka2gdMZmyj",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2910000000,
+  "amount_out": 265625204702,
+  "price": 0.000010955285675034773,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:54:03.044220500Z",
+  "original_signature": "4brHq3CniTGhPqQK31NK55LubkbJHKUNjqQNF7vcmNjzXJ4kgTtdGrhs5bpesBWo3Vm5446Wq8XfxAgXo4o7TQyg",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 467045340000,
+  "amount_out": 1660596054,
+  "price": 3.555535002233402e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:54:15.522790200Z",
+  "original_signature": "2Akg7wqduhJrd2q5BxysumFngBmSZ3PaQNq56Ejgm1tAKGDpHvx5rBpEcczxEjPTwHnV4ZmnfjP3Le45P7ndwv2G",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1480000000,
+  "amount_out": 1617347345556,
+  "price": 9.150786342010017e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:54:39.093231900Z",
+  "original_signature": "3g5etGw4BPXMrUzW7Qnbu5QD6bVWxtFkYmXjW1QShuHSkj2udMuMpDiKMVkjJmYhsUiJKGhYRBNx8p4mceqcdJcZ",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1580000000,
+  "amount_out": 225597691108,
+  "price": 7.003617777469226e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:55:16.938708100Z",
+  "original_signature": "3XUREdJNvmvSiks9HEQ9bZya4B2Qm7wCMWki5wyM7QV4TooccDj92upywVUkFPex31RhGKkjZBqVC4aKmgxzpyEv",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1360000000,
+  "amount_out": 1179823278729,
+  "price": 1.152715007848549e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:55:59.937433900Z",
+  "original_signature": "2XHu2puz6kb1YVpaQeTdpDMJeiEf88ZQv53P8pae19AdqDQaNYs3qpHrYRbLbEoVkafdTokMB4mnF33HAFfadoYV",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1650000000,
+  "amount_out": 146675968719,
+  "price": 0.000011249286535554092,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:56:00.812128300Z",
+  "original_signature": "2tVHZEwqUyNsPGbUZtEXT7CqaHVgPvcVbHc39Tp2GdchJ5aDeQ1ZdjcH7anaqSCyQZfEruiZR5aRaSxXihXdCNJ8",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1800000000,
+  "amount_out": 182741418274,
+  "price": 9.849983747532836e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T16:56:10.374400500Z",
+  "original_signature": "21ZDQ5AEcRmMSDBXPweoGtQr4ML658Kxf6LJH7R5GNPUpnEFi3qUNYBkAB1jrGcuVAwJyAUjNE4xdk7Pfoospkrk",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 801727529000,
+  "amount_out": 1398894652,
+  "price": 1.744850465275716e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T17:04:30.925882300Z",
+  "original_signature": "5JgxMHCzhxZhPjuj28efPWSJMYYsXDgDyU6XKcyXoskJL8Q3L9ZtskEd8Q4ojorvgxgTTGhvwFsDrzNn96MNabEU",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3920000000,
+  "amount_out": 47657123328,
+  "price": 0.00008225423034916759,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T17:06:55.201455400Z",
+  "original_signature": "DAHWtytNKuFHFHqEtifkDs1yTCDzmKqEpdCkPaRquHaBW6MiiBC8yBpMczPrLupUv9kcDSaEKoXNj4NXKUS2SVU",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 672306975000,
+  "amount_out": 2128786743,
+  "price": 3.1663909823336285e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T01:27:39.913931200Z",
+  "original_signature": "5AEWKgYDM7tGU7S9nUp79BBusnRcusNtarXfWSG6XPBjfDrCeWUopJNR4uoozD9NMrqJx8YU3mxRxdVDCNj1pikn",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3960000000,
+  "amount_out": 16259726143,
+  "price": 0.00024354653732620372,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T01:28:51.934369900Z",
+  "original_signature": "2LZvBpAd9f4yiNJAQL6F3fsASSNVJ3f3CcqiobxNP23nQU4xAxueBcMXS1jjjXTcG2hByRcnU1Z3P4cXCRkrshF2",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1350000000,
+  "amount_out": 230029645639,
+  "price": 5.868808762669834e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T02:13:55.016980600Z",
+  "original_signature": "63AevL7yj7yCcHhvaWYV1BYGMYJBiyCojvtc6Mh8EZZ3yhN67NJpMzi4tPKLYYUM7jNsBV2Xn1wLHQFYiRbciNtn",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1560000000,
+  "amount_out": 126112019052,
+  "price": 0.000012369954994985548,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T02:14:17.064631300Z",
+  "original_signature": "5ai6DeN6qL9ScyBCuW2ugo9wBYgXSgZk69S7HQEPDN8WmPNdi7GpvfqXRPGjoc9LPWSF4zmUuLKDhRu2bW64bmEB",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 126112019000,
+  "amount_out": 1680972461,
+  "price": 0.000013329201089073042,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T02:15:33.589032900Z",
+  "original_signature": "5NhXKzrSm3oqXWLMGYNJynyaXF8VE5hBFgdvQu3GxDQJSMgJQ7PiTCtyuaDo7B5ozzHaMgqDWVjgf7jEbhTnt2NS",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1410000000,
+  "amount_out": 1169551513906,
+  "price": 1.205590333760472e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T02:16:43.649035300Z",
+  "original_signature": "5RjCF3s8vUUXviUmsLFMinoiaCe5FH3Y3sM9cTBsmkhzdvdnogD4nfEL2GpdyBdEB3QGByVYpnXLF6QmWu89iwS1",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1600000000,
+  "amount_out": 124462206735,
+  "price": 0.000012855307984428211,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T02:16:55.629171500Z",
+  "original_signature": "522nWAEWMJCffHiX23xV4L5rQ6DGfm2ycuoGaAkZcLjxcTmwXpDkpJX1Gee3o3Krxg8pwyyerZeXKD1pYgpy1E1M",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1142034088000,
+  "amount_out": 1513879832,
+  "price": 1.3255995139787805e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T02:18:35.311281900Z",
+  "original_signature": "zBvYDxoEdTLpq5fR9hTc1rfH759Z1VCFnzjkRmQ6RNwSoP6NZaM6FhSaQzSnUrxwScW1yP94ruJQKC3fCiFXzr2",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1142034088000,
+  "amount_out": 1873044682,
+  "price": 1.6400952490658054e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T02:20:33.920066200Z",
+  "original_signature": "3AutxVyuhiTNaDMa8eMWQk7K3p8mhHMzXV428iwZzJ9xDzvV9Z1MCChDArL4p5zYZEB5vFKh71H4QB9HUCbLbwo8",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1360000000,
+  "amount_out": 51925220192,
+  "price": 0.000026191511465357873,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:34:44.418800300Z",
+  "original_signature": "57gq9aeJXJ9QpmLCrgR2zQcHWM6CGmmWzojoK1QEZ52beJyDS99gydC32vCD7fuyj7SMKfja3V4zKZoiyjjkXzua",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3000000000,
+  "amount_out": 3439094875032,
+  "price": 8.72322546778267e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:35:21.574997800Z",
+  "original_signature": "66Azp3kqzKCoURw3bajtUdtN578duJ4gWG9j6WVo42Dvs1KRBW4gMNP918S6aDEyybHtXgrQGBi9yLadAkeCWKDh",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 3439094875000,
+  "amount_out": 3266682713,
+  "price": 9.498669945824044e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:35:49.168895600Z",
+  "original_signature": "4B8knFFLhRdZMerBSuYti6T3MeTstmXXbbAYkqyTu36sHReWLfgfFJJ2c5BD6EFW1ypJh3ngLNESQusiNAFsh3J4",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2480000000,
+  "amount_out": 168030926956,
+  "price": 0.000014759187757438273,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:38:08.699027300Z",
+  "original_signature": "3H6CHWNsSkouSsA3UHRnokgM7FBXbPZb6WNULeoUTtKwFDHJmDnYCVfmgq9DHR6kac83x2RbNaaNVCJf6vA4yrDY",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 119707600000,
+  "amount_out": 1524211052,
+  "price": 0.000012732784317787675,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:38:19.870023900Z",
+  "original_signature": "3mPgstYJ7xoGQwQgFib1FhebpL8itSAJodQ2kihBi4GjgsWThJdD2WeWPgQXy38tqmWqxdJC1wAQezkk643DaKzm",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2370000000,
+  "amount_out": 26120487756,
+  "price": 0.00009073337458852007,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:38:42.303861900Z",
+  "original_signature": "ip9G55yoaNuxALFRdn2xfa9c5bGwvbF5VsyqNpdLPoCTvyERK6qgsjis4zWQqHAgGXeY2Gv1s5XdyYRzcxyMdfc",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2210000000,
+  "amount_out": 188503570661,
+  "price": 0.000011723915850774028,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:39:39.009162200Z",
+  "original_signature": "4vUY8jVaKRri7osA7TdJu9ffarrQNGb8dbcfLqS233TkrMPMxuq11sP3ja1ZKqX122mGmi1pyHHMD3SJzpPGGkxw",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1420000000,
+  "amount_out": 254978643409,
+  "price": 5.5690938700393055e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:39:55.582558200Z",
+  "original_signature": "zvPfscFcLnZV4ZqzBSpegFNCe2BfQyNiwfGn7tf3evvKfPwiuxw5jWc944pKBB63zZqwyueNwy2ykwDipbRtBxj",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 849071417000,
+  "amount_out": 821885182,
+  "price": 9.67981215177333e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:40:35.859674900Z",
+  "original_signature": "gskhECgiLQRjH9JB5GaNTfFLmAr51KpeZ8DqA1NC8aPkEavqpQQ5MtyodFSBZru6UZ7uSDMidcGYS171kj99i7Z",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 254978643000,
+  "amount_out": 1505839263,
+  "price": 5.905746635415265e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:41:47.924193200Z",
+  "original_signature": "2QfyvKmb1e2CZvF6bCDzUScwBsWpLGhwEa1qi1ofG3MdbMrGQUH5DadhNKw6T8H3DF1paSpiPFQbNYjegQfX3zbd",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1390000000,
+  "amount_out": 244525048394,
+  "price": 5.6844892133926134e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:43:17.580650500Z",
+  "original_signature": "2F6W8whkeGhiPrd6xNJEZVxfwTqMAJfuKXQxN4QgneJLdjjZFExsjg68RoPrBDWEjdZ8tRdhpPzVTdg6HnJ32HH8",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1370000000,
+  "amount_out": 1321688182998,
+  "price": 1.0365531126202656e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:43:23.983792Z",
+  "original_signature": "27xUYjKZ6zv3LGv4DjZkgVLF2KcuUGFK3M5bhD5QLyTUvuAmzsD9AVgiz4Y4Y6tYeVrVwKcxMPsfGJgcZSK1vtca",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1231221435000,
+  "amount_out": 1468308495,
+  "price": 1.1925624857237805e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:56:20.908090400Z",
+  "original_signature": "4nmy3mhjYpKDU6fX2ysJmxiKchLrt2qfE5UK2B3MuaRbj8Nq22z8ftsNPZAoq9UFY351cVaCEWeCZSrUHbG8trpv",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 333987635000,
+  "amount_out": 3866145807,
+  "price": 0.000011575715391379684,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:57:01.456709100Z",
+  "original_signature": "2kwfR4dzwVqs65agrYCJoSM21M6sPdwKKi84WXCafTZnU2jLpp6iuVSZygDWSQ6u1n8PoTFjnGszuWz6AQGvRrR3",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 6513176384000,
+  "amount_out": 2125781819,
+  "price": 3.2638173660122397e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:57:07.359134900Z",
+  "original_signature": "4aEMygd7yzgx6yYMBjJtLeCMqEKTio5wcyyBK7pZSUwTaBUo3DQn1r49f9jSvJBv4gv9diA5KUxXQzv1jmXdUHev",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 26120487000,
+  "amount_out": 2523818372,
+  "price": 0.00009662217905814696,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T03:57:29.484365500Z",
+  "original_signature": "4bRCgW9RupzLjtDyUafSAdNguDrGNYzcM98wDToJXqvVz65p1so71d16Vw3trkaYhBY831VtePkFsWzCnm8GnBpd",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1848342000,
+  "amount_out": 178304090,
+  "price": 0.0000964670445188174,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:38:25.668773800Z",
+  "original_signature": "4xvhEWPyNn91GKYMEjp7hdNgvgN5Aq3TNNXeXo73ivuQno2sATetNEBB7VGjCBuiX5ux93ayfMjXJb1Jd9iwB9Qe",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 142278806000,
+  "amount_out": 1482755987,
+  "price": 0.000010421481798209636,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:38:39.784483800Z",
+  "original_signature": "4o7Ksf5rWdCgXZjj4fJs2pWdwVH2RVyfQkSDGCP6xebAtDHXaKb9gK8kg6ZihYi5mz1R33US2fRcQcxGX9VLKhuR",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1510000000,
+  "amount_out": 144555544266,
+  "price": 0.000010445811730482048,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:39:08.975896800Z",
+  "original_signature": "4jxHyDR4xknA6mNrntRKzjeMmtRcR3c9tSRJXiKxRMaA9WgV9HrRL26sx4dSGJ9RrztuRPbfQ1jHCQ39seKpkCQY",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 144555544000,
+  "amount_out": 1610130975,
+  "price": 0.000011138493415375338,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:39:45.366273900Z",
+  "original_signature": "2KAqSdFdtoXHDcuFXJzrKGWhStyMXf27vfKeZnVw8guCq7mhWkymTf9h2wvEPr4HmfF4CZU9VxB2XVVbcmLj1f8a",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3960000000,
+  "amount_out": 33363499478,
+  "price": 0.00011869258506923822,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:39:56.047691600Z",
+  "original_signature": "5BkXj5WD9XTAdeUtUTGoERiuB8F3kk8EZHGCRjFcye8VQdNuJoGp8QDUUyHXSQN4K8boct9UoRgW8JjNynbh8D2A",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1350000000,
+  "amount_out": 146900524419,
+  "price": 9.18989231208893e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:40:27.338854200Z",
+  "original_signature": "4G6GD1kAXiP5eXnc9JshF94f3ueWydJSKaWJDrZbnMVAwMr7Ku6HshojsgHGguFxPKduVe1EurM3Z42nNtG5sUMA",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1540000000,
+  "amount_out": 134166360805,
+  "price": 0.00001147828703678015,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:41:47.706012800Z",
+  "original_signature": "3VR5Co5NCLQ3CF6rpKhjGpriN5Rg52GbkFjCYBtiFF5Y9aa7HTmwnRXWZ38GQBXUcK4zVR5emNbGmqQ9KhvDfw3o",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1370000000,
+  "amount_out": 201375508145,
+  "price": 6.803210641750607e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:41:49.989147300Z",
+  "original_signature": "5a8HNbDkkbLkBiXAQjGoKQokZNGNnNLRMsM18XMhPiKDTNxU6TXqY5M4g33Qkyz4KuAXdYrozeMCgAgoKJu4jvzb",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 134166360000,
+  "amount_out": 1620495847,
+  "price": 0.000012078257522973718,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:42:09.947163300Z",
+  "original_signature": "5zM3JGvYShgd6zpBcpSFwv3bLZfrpJznv1nxDpe6rC5w9iC8FpHr1rnxxndwFd371GzYhv3zFRRRJ6Hkz9z1m2XT",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1030000000,
+  "amount_out": 60823706733,
+  "price": 0.000016934186607886754,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:42:20.114202900Z",
+  "original_signature": "pHb61VdBU5Z3maQHz7a34N46dvJYr3rYqjrmBJRCtfJ1oJrj4wZ8XRxxZoQGUXU77RZyHLmPMvnvGTtQvDZxCWC",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1530000000,
+  "amount_out": 133937536837,
+  "price": 0.000011423235309023096,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:45:58.185981900Z",
+  "original_signature": "4kFMV9ZjvFvafeqboDkXGa3D2QPRpPECDYpVSS23mTWLno8tzMZLWjntatqQAJTk5KfA8zMT72dNcBtLjVrE8qfc",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3090000000,
+  "amount_out": 4734633016097,
+  "price": 6.526376995839996e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:46:28.455055600Z",
+  "original_signature": "h5Wvrira6q38H1yGjyP4sCKhnWGQwJxKZFL1RNfKkrVPoth2NZdNJEQFikGCVqrf1a5HSRVPq2SiGSbtBEoxx8P",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 4734633016000,
+  "amount_out": 3277340651,
+  "price": 6.922058457170189e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:49:59.401745400Z",
+  "original_signature": "y8n2wFjftwhE3jnLQmZHtQcciXJg4j7QfqRVKZdRkRfD7t9z1UEUF1LFvsbpTxWRTnHJMRFgSQD4goxr5X7xgKy",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1940000000,
+  "amount_out": 372316055872,
+  "price": 5.210626749513484e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:51:04.208915900Z",
+  "original_signature": "42nhoeEGVrtYEYJuHSn46Bg9RrpFSVvL8x6EHKzH7z5EksBJv3N7SoeMs4Mynx9MZBk5cFyS2qvKdiwiWtC6eRVQ",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 372316055000,
+  "amount_out": 2110039858,
+  "price": 5.667335130095317e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:51:32.069855Z",
+  "original_signature": "UhtDatiQSStKs4qJmPj3sgCpqCrNpA4Djixwo89WxdG1MrtzqEhQmTGAJaCjB171v5fAJfQwgt1okJYDqyrEmjy",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3650000000,
+  "amount_out": 3703369919710,
+  "price": 9.855888229188351e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:51:32.811740800Z",
+  "original_signature": "4qxfx9a2Sz3p4VBDLDeYUcXaZZE1KVSgkasC92LQ6MtrCA1voDZNx7uQaYU7ZFsqzVjyHR1tDh2pU2VNgHetbvLX",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 3703369919000,
+  "amount_out": 3930770572,
+  "price": 1.0614037101271816e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:54:46.751257Z",
+  "original_signature": "61teXiwHMpTQj99WPzdBQnumv5yiU6HQcZUMLcb51ZCFGaiTQimCCBuGsuJcWwJc5EoAfp6eeh1irC4jb5L6AmQG",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 6000000000,
+  "amount_out": 1806006015543,
+  "price": 3.3222480702513158e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:55:08.288068100Z",
+  "original_signature": "2qfAA7QxEcvuHmN3mPrX3rSN1JqwU4Lh1i4RZKgVigkHY3NonFV82RvFjbpW9iroCidZQLM4cgSZvWtydKafaqxe",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1014919724000,
+  "amount_out": 3690896661,
+  "price": 3.636639010673124e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:55:37.309573700Z",
+  "original_signature": "5c2f7UXFM4pbrfh7xtx3jCMiJZCaAnARoNQY5AutSKtyS8yYxYMgsYP7qSkWudyqv3MW8XQ33jtJusDpphGPTUbr",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1014919725000,
+  "amount_out": 4068637222,
+  "price": 4.00882663109144e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:59:31.431383300Z",
+  "original_signature": "5BgWXHdEcvKHrWrH8tJZHeDWgYF9bKdAjFKgEEfZg4YoEVnrthXeM6WozFa2nm5VDAB9WfkxSRQqCXsJajCbCSya",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 33363499000,
+  "amount_out": 4281389796,
+  "price": 0.00012832556309516575,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T04:59:40.895484Z",
+  "original_signature": "3uMD7EjQXTqfgUYhaFHFqmNBKcfX4a6nPK7heUxwfk7Rrxo8HQheUMCkqTwtTA8dpJyLgftYaRBuZRQuyPNDWFrA",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2640000000,
+  "amount_out": 172766605674,
+  "price": 0.000015280730843213523,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:01:45.588158Z",
+  "original_signature": "4xRCn3HwWaCC3xoEwcYKRMk7W7H7HyatikKKsELmfsTx5VKNHaLvbX8oYCt3iZuky5y59yfk2cjgbgK3xPdoy9ST",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 793611112000,
+  "amount_out": 1378569783,
+  "price": 1.737084778873409e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:02:07.333239Z",
+  "original_signature": "PQHYa8bCn7gYULbPUrfwqBzjsjDchGLGLPBJ6F7SJWBzGvTCk8LQXHbs9WeAsDDNcBsmeQLi7pZaoVerkQ5RKJ8",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 133937536000,
+  "amount_out": 1636768774,
+  "price": 0.000012220388868434911,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:02:36.328032500Z",
+  "original_signature": "99ZV4oR3rUQZrBRxYNxNvJKmQGDDEXXYSS7ufXB1y6M1uA4M4wqby9m4MYVszwM75gL3EEuwTMzeWJ178fbchhz",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3140000000,
+  "amount_out": 25220447098,
+  "price": 0.00012450215445423266,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:03:54.440654200Z",
+  "original_signature": "64Do3PwVDqymzzWSgpmzz5wMgh1wBNKGTgRCjTn8i7Un1G6N1j91xHhCegthCJpMQjZP4uw59PaCnKPdRmgtwDBP",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 6075569015000,
+  "amount_out": 1262398992,
+  "price": 2.0778284122577778e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:04:02.229817100Z",
+  "original_signature": "3rpWx1TqcDPfaz4vwC6T6bwpcWPDmvZcFraoscfkJc1jCesUpxhxt9nKALobUSQQ9KJNwe1dwvs1uGpULngsms4j",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1450000000,
+  "amount_out": 125954825506,
+  "price": 0.000011512063902076762,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:04:45.522965500Z",
+  "original_signature": "3xkb4TXYHtdag7eS56irzALp37btjqqRmideZcTiA1aSwiCjCxKNVuLU3kxeZHmCc7v7m4JvHDBYMfj7P8kocRjk",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 201375508000,
+  "amount_out": 1460400585,
+  "price": 7.252126137404952e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:05:52.432222500Z",
+  "original_signature": "4b7cZvwtmoAaUZshJJxt7CpcTxADohix2u1BCC2fiHbCQxDdofesq7hwaBnVAF5k7zRhwif2U8UNm4CXbsb2g7ZB",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1400000000,
+  "amount_out": 182778152992,
+  "price": 7.659558744207664e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:07:25.708292200Z",
+  "original_signature": "5u9EK77GQ5XECsLGWraTtibBDCSQtHPZLKBsREL9J4TSuLQrYXNJUdNSo7YXxGVPSkJX6zZjXJvervTfN3eu93cr",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1470000000,
+  "amount_out": 200037734617,
+  "price": 7.348613514417762e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:07:27.573105300Z",
+  "original_signature": "f8w6nwCbZrRET6Bkw5AjFh74u6HFZgHvFXaUifkBgTBmaV7uSDg7oVdkn1BTRDHKZF5axPsNJnrC8zRCba6gdJP",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2210000000,
+  "amount_out": 3985893472368,
+  "price": 5.544553599640106e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:07:50.682911Z",
+  "original_signature": "5FYhRoFyb69JLwhUe6nz1WA2RzpCT28bPjKCfSxe1vBdfAbtMNwQrY9gmEgVVtjGGSWDjby5oPVJVc6keVR549Cj",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 3985893472000,
+  "amount_out": 2451483235,
+  "price": 6.150398278883054e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:08:35.536733800Z",
+  "original_signature": "3kW4nEhNteXF2uFJ9FU4wn2EwSQHTZH4aWGARcriprdEqh4rMP1EGKNotrfJwN7ga9TUAiYP4a7CZAbSPTZvyhfw",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 200037734000,
+  "amount_out": 1568674004,
+  "price": 7.841890490521153e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:08:39.840174100Z",
+  "original_signature": "25ibefWbRdrM4dEs2CR5PAJaeguj6MaQgqHHcyfwFHday4zSwFE6mAWgnanh6dLi239eJxTTYDfSHPVRSub75gu3",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1610000000,
+  "amount_out": 301418618116,
+  "price": 5.341408603301328e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:08:52.389989700Z",
+  "original_signature": "45yXQrygqd1wsmgSuUbmXBLUrYC8gyTyKwB5yBRAu7qvAHdJRP2gUXFb7D5JqgGy6Xq5dFuqh5TCjaranw32Qupc",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3000000000,
+  "amount_out": 962382667535,
+  "price": 3.1172631232896717e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:12:14.781474500Z",
+  "original_signature": "66NRwkehxf7yDuE4nxVk9mhM9mnXkh5hHKmzomZQxhGcfEGfsAbm8YizVpqR4cjFzHJ8D8W8M78k6gFsSnJ8DB54",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3000000000,
+  "amount_out": 503323500661,
+  "price": 5.960381337370872e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:12:15.547760200Z",
+  "original_signature": "3g4uDqs6gccjwMVMQnuSUi4vQVTZBTf6pkFfXJzrDJtFvswwmeZtQnGLyiCxTyquxV7DSoQTwuux4kzBXJtoSpRT",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 503323500000,
+  "amount_out": 3436564669,
+  "price": 6.8277453148919135e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:12:31.220323800Z",
+  "original_signature": "3m2Vpdb1nxUpqyQpRwvwGhGCehspiDdPHZSeKDsZ8CHgSvUJxZgh2FGAPuRrB3KQiyZAtePSWzu9ea7tRRoHbQ8m",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 125954825000,
+  "amount_out": 1559478740,
+  "price": 0.00001238125446960845,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:13:17.837569700Z",
+  "original_signature": "59pvuYdHj3Yr4fiU6kF85SxmfxDQ8T4FAH8WSG6XRNGcxf36vD8MDega6zzbPt5Phm89JfcabQeGLrhAacu6VjCp",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1550000000,
+  "amount_out": 128770176325,
+  "price": 0.000012036948649413912,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:17:56.410544300Z",
+  "original_signature": "Rw9jTEKXtdG8ACgtSfk6xwE5CkwtSyDt68GWaWCtyZZq16mrhAdeGF7PggD2oXRLhwcfTyLg3AYQ8unJNbL3YKJ",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 128770176000,
+  "amount_out": 1648927661,
+  "price": 0.000012805198472354344,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:19:29.178629800Z",
+  "original_signature": "TNQ8qgHqL4fSLkp1zLgJM3KQtev8dCfSCgQCEZshxWNWe4bceUBjBRYkGZUnkKeXrzRrUEbWbwQoygyujpDNkY9",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1490000000,
+  "amount_out": 188966945159,
+  "price": 7.884976913535268e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:20:08.395633700Z",
+  "original_signature": "3jArqYdiuGYaDyFXjdkWnQEjUmmwFVz7N9eVBPhshf2iFiLs16YrqRUYhXwbhauo9Gt63hjFQ9vF63UrK2WK5HRs",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1690000000,
+  "amount_out": 133686700014,
+  "price": 0.000012641496871588714,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T05:20:33.912673900Z",
+  "original_signature": "3odhHcUHgRm7THbQQznhoD9nHtHiCdhAwzAkBLFksXf71WQ3mB2yJyQBWcCNpdvfqSRBEphLxUD79KPkwoBt94Bj",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1321688182000,
+  "amount_out": 1484851410,
+  "price": 1.1234506218804944e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T07:36:51.236782700Z",
+  "original_signature": "2oYtRnr28N6k3RU3mn76uAuX5QigzP6LhZbNXyJBavNMmAocuDW852AY9Zebv83B32cpMbDxz9KivxbYbuSXBepU",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1370000000,
+  "amount_out": 141928874907,
+  "price": 9.652722188474357e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T07:39:37.717880500Z",
+  "original_signature": "3xywr8SkQBMMLGxbvAoKqjufxMPcTVdt3VpNcAUM8yHe1fBx895ZNdFoFExKFVjTgETUhuibMNC5HzWLLaRMKDsq",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 468484499000,
+  "amount_out": 2103927999,
+  "price": 4.49092339979428e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T07:40:24.761379200Z",
+  "original_signature": "4Vap6ADMMjYh3jC69MKuxnwJBnhqBBfHEqgF8XNpCHhc5Z3J4EYvXqB8Ct1WFrW6zyTuFWxUTNcWVgku3XQq6kFp",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2370000000,
+  "amount_out": 335385365006,
+  "price": 7.066497967070213e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T07:42:53.871353100Z",
+  "original_signature": "64YzfSJZrKK9anmgSgBFTHZ5S3RRX6NQ1G2TzsT9KAyZJayQFyG5dKr7nHru5A5i5BgCzQFrP7gERdwsH6tXwVH7",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 141928874000,
+  "amount_out": 1458042352,
+  "price": 0.000010273049527610569,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T07:44:41.725977500Z",
+  "original_signature": "tzfSQd1UDSFF69SKB3uQkeJK1fLNLahCxJmwLWKmyTHuu9WiVERHYiJTASHJSqyPPZnxprGnBdgfPJyUAJCoYBk",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 203544995000,
+  "amount_out": 3020933956,
+  "price": 0.000014841602742430488,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T07:47:11.385201300Z",
+  "original_signature": "2EDg2vdgxxKTgNsUC497jcGNhD5kxvRByQ9kw82h5LNRU7sDKJKV4AmRreZo4wrt2g8diBrtm68yZBR4TGUizgx2",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 147675667000,
+  "amount_out": 1620219811,
+  "price": 0.000010971474474532084,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T08:07:52.504711500Z",
+  "original_signature": "32LnFMpXH6f5ufD2WRYt217fsHZk91xEo6feJP69Cu54nR31BdU3X3qS8EXTfuF8Ewd3r5fp2hvQQj5CoizKpiDv",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 282035990000,
+  "amount_out": 5445910203,
+  "price": 0.00001930927397953715,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T08:08:37.020639100Z",
+  "original_signature": "tiNZrPwDcpaYJBpv11Zh41wbbG5Wi8P7tYxmqp8CK82C8dzdbCiMijxbY8nPh2fmeZz65DaHyPqASRGAVwRsBv9",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1730000000,
+  "amount_out": 228682608517,
+  "price": 7.565070257065018e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T08:09:16.186311900Z",
+  "original_signature": "2bf9gwsLPzw5SM8aQR3xXh2DAMUw5HkRhvcDkU7jzUdfLWtrKCiQRuQRP6SqR2mgHEg91s3trV5s1t9n4XdAdb3V",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2930000000,
+  "amount_out": 27686084554,
+  "price": 0.00010582933799415428,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T08:14:14.059634300Z",
+  "original_signature": "2rtHvh7GnJ78oz1QooTSEFN6z2WXZAMhVfsRPUWeHhi5yM4ZnTvHTMSSTsnYHR4MMoKy4i1M2AJ6JSJ8yhsK5Ds6",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1458336773000,
+  "amount_out": 1632487326,
+  "price": 1.1194172403962277e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T08:14:57.204137200Z",
+  "original_signature": "4jD1miweqdA4bC1TQ2EUVRiWm3ZM686qsUbuv8kTCtKnfz4RaAk2dDt7gWPFT3u44tMpPErt6CQBD7coRiWpsV9e",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 60823706000,
+  "amount_out": 1098523422,
+  "price": 0.000018060777519870295,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T08:14:58.240579200Z",
+  "original_signature": "5hkguEyDVtL3gUU9VRgMegv1a4ru96JGcnj6n3R6zQZhKWPeTwHzjBmn5Hixor22xsaQL2GKDNaHcDky3BiBr6Nj",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1470000000,
+  "amount_out": 1458821513191,
+  "price": 1.0076626829998881e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T08:15:10.030299100Z",
+  "original_signature": "5xEoDjV5HYLpyUJUeZo3yFLXrnDfwVQ3UYsAxGeHZkTmirsWBRzB9tJUjGQq5vYaG7Fuf9uhR1goLmvqhYQz6zLw",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1458821513000,
+  "amount_out": 1700914477,
+  "price": 1.1659510514772617e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T09:17:27.527587Z",
+  "original_signature": "3JyQxt1opUNfVTbyJYWRVmz1PgzTSjizM319nXCuBJ3sVRpiNpY3iJiY15fLfNjV5aLXgCy79KXcBiw3Tb99Wksb",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 58390551000,
+  "amount_out": 1205894710,
+  "price": 0.000020652223507875444,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T09:18:30.204206800Z",
+  "original_signature": "3BAi8Syi7gNH4zLwb4JdAR9XZ5shLLnD2aW3iD91GELtf2Y1wLdgjhQstLh1eANMQEpvpRN55g41M1oNk1ZJ1XKg",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1650000000,
+  "amount_out": 731560000626,
+  "price": 2.2554540961617445e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T09:44:04.125702Z",
+  "original_signature": "4gbeG8ViafKNVCaFEqCwLKyKhCfnw1KFA94DeLLztvjRm6GT1H5Xt7kdxMxbfKgcXAzZ7kn2Cs9FPaayhNS945WG",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1187013620000,
+  "amount_out": 4627097384,
+  "price": 3.898099656177491e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T09:45:17.028356700Z",
+  "original_signature": "3vbhfenP6ZFHCUTB2WqHZAQqXbxcWv3bDvLQNFwHkzmfQ29bdSQzfK9jyrTzWBCib79vkUcc7E6AZHXNtcH3ALVy",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 573698846000,
+  "amount_out": 1476190814,
+  "price": 2.5731110046541734e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T09:46:02.634982600Z",
+  "original_signature": "59Mn21QJBx1jWcXRwaGwFBE85uJLUarTECC7hcb9Ehnns14cdVGa9Se82KG33G4GzjxB1YJ9G351umiKNMSVw283",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 82009397000,
+  "amount_out": 1882317401,
+  "price": 0.000022952459960167735,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T09:46:19.826083100Z",
+  "original_signature": "2T4dMRtKpvnDd7ds2gQkWsi8EZNCqZdhoVWWdbWfkAST34EY5XHzyDzaouucyabb7uMYTCghfkn4i1if9Qa6qWtu",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1540000000,
+  "amount_out": 71466030195,
+  "price": 0.000021548699372247256,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T09:46:49.157124800Z",
+  "original_signature": "5YqbSwS7BtMLX6jqkVf7r9cEvesbLgxwbbWJi4j8WvyYiJ9FUVhbaptAXttmNGrQ541vJC5Ho79USvmtZZm5iicf",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumAmmV4",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1580000000,
+  "amount_out": 0,
+  "price": 0.0,
+  "gas_fee": 21005000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T09:47:28.399663Z",
+  "original_signature": "5oBGPuqCwKjiWRUCmMAy8qMvcqfYeKeMJi12uB7ZHuWpTpf2ELGop8CjBTuZv7wMnABor33W3KJiNNUaf4yEbqG8",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 71466030000,
+  "amount_out": 1770752903,
+  "price": 0.000024777546800906667,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T09:55:57.440327900Z",
+  "original_signature": "3FNVqwwRR9DVYE4M6K6KaSFpRChPEaxjYYyAHeRJueu39WVMmVhLKgEJ7EbTyTePdpQguZ6TKid85fJr6dUD99M6",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 62649319000,
+  "amount_out": 1654243008,
+  "price": 0.000026404804304417098,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T09:55:59.062426400Z",
+  "original_signature": "3CVpTXA3N897DK6GmX814LyvHa7daLRPXHrDa6P4UyN31854aiivpmb9z57syTnzWixsWRdhZm7tLGzZrff8Pbae",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1410000000,
+  "amount_out": 56554812147,
+  "price": 0.000024931565440179693,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T10:01:41.829784900Z",
+  "original_signature": "5A8rZevfFW1e8EnfomAyLWLbPZ6HNPr59JRUk3cUQPYnvZRKU28DLhPesNkAMLjDaZpNz5hQSRkAoJxcQ2AanVxr",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 384283457000,
+  "amount_out": 3225458625,
+  "price": 8.393436059361775e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T10:01:56.409917Z",
+  "original_signature": "4G8GUaBhsH6Ev2f1EsXHRv1dwvmNgtB4hsibFpsdaH1iMtG2XgPwUcm494PyyCndutjA7jnW6NHjMn96T1v6jtJ7",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1670000000,
+  "amount_out": 1688488430664,
+  "price": 9.890503065770314e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T10:02:07.191604Z",
+  "original_signature": "2tNDWokc1PEu1QB95DdDicUwVThFntdnsgybmZZwPfMb3x7SVjfx6nsq87PZb8jSDki9pVWFsdCvkUJdchAAjxh4",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1688488430000,
+  "amount_out": 1837443453,
+  "price": 1.088217970791781e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T11:37:31.153667700Z",
+  "original_signature": "3XygcibHpQVihf7bE932zcFGXqPVpzS1RXptfu52WrFCdYQpLvJKRUQKaW46LJ5tdXRPD7CFHJVQmc77jKzLSm8A",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumAmmV4",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1215736589000,
+  "amount_out": 1215736589000,
+  "price": 1.0,
+  "gas_fee": 1355000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T11:40:15.313165700Z",
+  "original_signature": "Z5o9y5HoD6CmidARJQjpsdYec7xSmomJr4R9sDbJmkqB7pzXm8QX46YSLVR7HbcY9TMScJh8HauN5fTfC5nV9eV",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 959424730000,
+  "amount_out": 891987269,
+  "price": 9.297105245556888e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T11:46:51.653808100Z",
+  "original_signature": "3W4yRCF9DKzPqKqQ5T4FciiTAgdHXrXbYUjph8P9HbmVbo2LhEdEzjAH7BcLhi2EQ4d5CC7aCXPpViqHx21A2bMy",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumAmmV4",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3960000000,
+  "amount_out": 3960000000,
+  "price": 1.0,
+  "gas_fee": 6205000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T11:50:44.576537700Z",
+  "original_signature": "2BPzwWuonT5GmTgjJ1B5VB8eLWa5JHgBRGDYvRzSRzJBkbSJdE3rwauiah2mPzP51PQBJAej6saheG4AFsJd1TXp",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumAmmV4",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 3960000000,
+  "amount_out": 0,
+  "price": 0.0,
+  "gas_fee": 1355000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T11:52:07.402375800Z",
+  "original_signature": "vNuCcUohpv3sdQrQoVX427XYuf1YvknvKUfB9w9jwR5q2UsteVs8LkeSwXsVn27MkjUJMA16271hc7w8Y5But2a",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1540000000,
+  "amount_out": 1559776949410,
+  "price": 9.873206554196863e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T11:57:53.601467700Z",
+  "original_signature": "faRJaQyQq1g1ZkrWpdHLtKABPyvQaUtVX6jpNY7JWhcGec9fYqkd8EXx1FoiSBwaYy6GgqNu731FE4AZWZTGdk8",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2266000000,
+  "amount_out": 4280143253669,
+  "price": 5.294215323418328e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T11:58:18.759144300Z",
+  "original_signature": "41rvQ1XHpJjHph7RgEe4hT7fnx3kj8kEPe9AzZ757sbjxngHPgS5XbSEJQeQJ8QUNua56SWx6zDfy65TVD9zDFov",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1975926146000,
+  "amount_out": 1199377373,
+  "price": 6.069950415039449e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T11:58:58.679915100Z",
+  "original_signature": "549uiAeHttJi4dZ6TzG3PrMEQcBKeQsH4BKg1hxuzogaJFVZXixyd2TwVFfbvZuNg38VEiJ39fvTdffwGFNpPrWN",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1610000000,
+  "amount_out": 2836864948168,
+  "price": 5.675278976673568e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:00:37.226192500Z",
+  "original_signature": "4SGb2NNfpPfVUxKj4FhFcpn7AGq95Nk28JBE145za5vXbxSYCiMDhvs2EbCcRcGzKkvVNQZapCFniydLme19vEcx",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 357488072650000,
+  "amount_out": 1484905921,
+  "price": 4.153721577317637e-9,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:01:51.472968700Z",
+  "original_signature": "wzuzunSP24Z1AHisXf5WMHZ7nyjj5nNv4GR2suUur2GiCZMwWmcUt7trqeSjwjjTB7UASFkKHh8Mff4ZVoSsYLy",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 2836864948000,
+  "amount_out": 1731390934,
+  "price": 6.103184204171005e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:02:05.125817600Z",
+  "original_signature": "3sHWVia7DYDync8YiKtfhX783zcguCTV129PScmiPXF8N9e3KtmhK4Cq7N6KsUgonfbos2enSQEoUPAP8y8Fq2MT",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1559776949000,
+  "amount_out": 1675931150,
+  "price": 1.074468468760529e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:02:40.234556600Z",
+  "original_signature": "5xAuoPUqJGUV3VDZBKexG35RSactC11AZ7tUsFBVefU5BT1xDBGCDritMcb6qLDhpxxzFk82VEs3GbmxCPzSJE2d",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 455607691000,
+  "amount_out": 2278358256,
+  "price": 5.000701921864616e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:05:07.147802400Z",
+  "original_signature": "4TCqRdB8Fp16CyJZKvE2VC94mWtqrrFRaSfH9iKmpCK915uvSNwKTkeA6duvnzfGcwaJ1nTPUvhNgw2Lj2vom5iD",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2350000000,
+  "amount_out": 3741833882454,
+  "price": 6.280342938310249e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:05:07.579971200Z",
+  "original_signature": "KHMZf8B5PPyKdcg8vYcQxNN66oMKFaiBxTu2DHopx97Jdp4RV7C9v2G4rtgnHUX134q8RtwEMVy6B1BouULCsFC",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 3741833882000,
+  "amount_out": 2539498837,
+  "price": 6.786775995631973e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:09:39.111235100Z",
+  "original_signature": "BQwfdKybWAtkyjBYC6ZkfCMvX4A4L4tVBrZ7bUydn9EwDF1urQSqaGGB357W2xVxAhyHAx22Y7V8cHDF2M5gGg5",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumAmmV4",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 2373873042000,
+  "amount_out": 2373873042000,
+  "price": 1.0,
+  "gas_fee": 1866600,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:10:03.252343800Z",
+  "original_signature": "3aiHafYDatYs2TbTQCFdAY1HsmiPzTt49j1J5U75K2uCnTjSjKjJ8KUaf9aPNmgQZjycaP1Xb22ct3hkQwMssxyd",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1470000000,
+  "amount_out": 567960153676,
+  "price": 2.5882097370488777e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:11:55.455077Z",
+  "original_signature": "5UwM1aG8QftpT7y8HcE2UCDexSX4ZiqJFvWnawXTj47ZAyjCjAr6gy8eRxXcfyLEXUHeijuodBxcNzF1wByPChfm",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 776918465000,
+  "amount_out": 1677338269,
+  "price": 2.158963063131728e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:16:23.417709900Z",
+  "original_signature": "4V3NaJCEusafJVUjbKUuiuJihkfVB7fXWDDyo9YnLpqTFy9zpGh3jx4onTEttEhP2F19NFDouS6MktvHtQgY4b1v",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 482979244000,
+  "amount_out": 3919802984,
+  "price": 8.11588289288887e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:16:29.961801500Z",
+  "original_signature": "4qHSLDHWTE4S61d5e4WHDDTBBoHhePKafX4oqTXorXvt4qDsjhXsK5fiWqo8gCMXTLj8gbAXDGrTg3TNF8rKwcAY",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1008658087000,
+  "amount_out": 848533028,
+  "price": 8.412494173558338e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:16:34.120231700Z",
+  "original_signature": "4FvsQn6f2V8yfQVD7u7oskWRVkKYcioZZigpf6FnZW5cWuFpXLNHToK4pZUTkRXMa5ZePQ48u48UikvLGx4fPASi",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1850000000,
+  "amount_out": 217005245714,
+  "price": 8.525139537125246e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:23:26.811864700Z",
+  "original_signature": "499efPo3NRScp8K5fwd3CbhVvwXYT1g18mwnprBmExHH4tAgcoHTjzT9sbZccYssv3eYUKWVk4fCwf1kNhrd1qJD",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1430000000,
+  "amount_out": 82029825493,
+  "price": 0.00001743268367823151,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:25:15.544611100Z",
+  "original_signature": "mLhtHRTrwzz34Mfdfa7ANe8Kra2PkYKfsvkA5Dq9T2UhiXTwwGPKzzwhy5HbRUjRDfHfNP2MC2J4XXJ3AJG1WEw",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 301418618000,
+  "amount_out": 1728123531,
+  "price": 5.733300558759778e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:38:11.624629400Z",
+  "original_signature": "3Y1YGfQHb52vUm7oACqU2xTnCuqK9HuxEAjktZ4Bf5oiQYBt53u1DQNxjTuFGj8W229nM8CbzDcMuzK79TaMuUy9",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumAmmV4",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1700000000,
+  "amount_out": 0,
+  "price": 0.0,
+  "gas_fee": 24505000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T12:40:06.099884800Z",
+  "original_signature": "566nFx9z4739obvs7dykq4bVfHdUq5nyT8DrZtF7bpQx7iVCjf6M8eUfZpnjJ1gyLX2kTZ65keSCwpJcn9LykMey",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2660000000,
+  "amount_out": 830214794646,
+  "price": 3.2039901205738118e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:25:40.723234600Z",
+  "original_signature": "2WYW8fQ2tX6MD73SMXVrCwkdZg3vxVRLJ3wLNZCBZFthbvszYu2zQeaLPHXKYiTRqgFshobyGm7jHdSomc9W5VDx",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 124154790000,
+  "amount_out": 1947949112,
+  "price": 0.000015689681501615847,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:25:46.186586500Z",
+  "original_signature": "5pPXXhv37RHJB43G1gof2P1K9FXVWijJWs3rKnecx9Jgsa9WTQppJppRiGB9bi4LkaevaCL5WsostEGYT4aqPj6q",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1650000000,
+  "amount_out": 116983760009,
+  "price": 0.000014104521857333523,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:38:37.025334300Z",
+  "original_signature": "2592ViKM49mxjjUQ3WKKRohjp23Xs6ezpphvkSjDVoW23X9XKavzsyuocqAPUXMJb3CzGry5QBG4EXEmYWhfJaMM",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 4219999999,
+  "amount_out": 1641979835688,
+  "price": 2.570068101495164e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:38:37.762431500Z",
+  "original_signature": "4BxHDnhNSAgLPBvqdiduQTyDMgAVeTkHqWzkkVMv2bq5ofSbmxC2fmM69JhPV1ASGAcbmQ7HuGm8uAn4abfSk4xR",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 1641979835000,
+  "amount_out": 4541569940,
+  "price": 2.765910910227469e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:45:07.748830100Z",
+  "original_signature": "2w2gFJgrcbBaNam9Br8VKwSPPfn8b8rAw7LVzqexvqW2jb2Xnm7bZT3z3iYAjTuHaP6s6W6jZkuZfgnQa3fdmu92",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 373565583000,
+  "amount_out": 2070168424,
+  "price": 5.541646549382468e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:46:11.083175300Z",
+  "original_signature": "5rJ6U3oWfQK4EkH1TxceRyyxdp4AktXx78f18onpx3FtjWupy7cntD4KHxeT2z1JhRfV35258T2iTJ9i7qxXCj5y",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1716000000,
+  "amount_out": 3094208718714,
+  "price": 5.545844369261539e-7,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:46:34.505843700Z",
+  "original_signature": "5HEGaoATvQ75QYK488yu7eRwg3TsPJmqig36Jxb4iVNQPUDVGesBGDYWLmApEJRwcjWmP3rbFMSKTVzj6Xq87FSA",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2210000000,
+  "amount_out": 566039622630,
+  "price": 3.9043203190116575e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:46:47.613308400Z",
+  "original_signature": "5v2Y1HKc5MnFR6Yj7NRsqxkGpCNfrQeAzUz47hP5nG8HvnZ3rhdCdWW5nrJ2kC5pvuEmMhYHDWi2GJFjfdkEjpmx",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1630000000,
+  "amount_out": 130379827918,
+  "price": 0.000012501933972678338,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:47:05.996270300Z",
+  "original_signature": "3Sf9XhDtGf7ACVmUyS1jCQNdvjCaeE3mJ1zoaiT1VgzWntC3osWhLbfV9CcYx8TR68dGZNkaLA6ZSmf72u3jqyZB",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 649138387000,
+  "amount_out": 1666908763,
+  "price": 2.5678788935956115e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:47:32.138416900Z",
+  "original_signature": "3nLJhYdfU1BLZUzySmkLHBEXoTVFBEzB6uhxQh7tA9bpjh8eRr2cWpG3YyjyCNnrNGYmJrVMHVYfk9TgR35G7op8",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1460000000,
+  "amount_out": 212211311359,
+  "price": 6.8799348661019455e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:48:04.093419800Z",
+  "original_signature": "3RLz2kHdWam8PGQt1DdgYUu17tBvis6NTvmMmLjjV7yDpEbkSWD8TstHZt7Q6Ubebsh6wjYNaRSNmgYu7uJCX9ud",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumAmmV4",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 122421926000,
+  "amount_out": 0,
+  "price": null,
+  "gas_fee": 2655000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:49:14.006515500Z",
+  "original_signature": "4gKnBusLFgw69aAzTXwCsr3nm4uUMC9aF3FvVbbhhGqEFtXbJL1nq96DagQTH7fANUzUwq9MJQdbAZY61TBScuqM",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1640000000,
+  "amount_out": 121511713949,
+  "price": 0.00001349664116077178,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:49:28.095911700Z",
+  "original_signature": "5RNCeSNk5U7S5YUxndRQbsTehGC54Vkbxnuaqbcutw2Mu7qrHS6HmNpUCFEhFHtPGCP5Aqbm1gsFAmnm6jd3E58w",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 121511713000,
+  "amount_out": 1702673604,
+  "price": 0.000014012423674744836,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:51:57.317265100Z",
+  "original_signature": "455juuVAAdDVnBQ5TMZ9zzLGmcxP5ZvEMkELsJFgESHgwoGXX6urBM7Aet8eKYSm2Y7iuY1vDLvETCfWkkRSNPSh",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1170000000,
+  "amount_out": 97786788625,
+  "price": 0.000011964806457514444,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:55:23.100924100Z",
+  "original_signature": "31TTDajfQ5DqnMCsbVD6SUuaLiaGGLokYyGnMPaKUxP29cXZyvT7qsWu3XPTTSuoee83rCkw6pxavsvspn26q6KG",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumAmmV4",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1490000000,
+  "amount_out": 1490000000,
+  "price": 1.0,
+  "gas_fee": 6205000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T16:56:36.780488300Z",
+  "original_signature": "3JH579ahD1hVMqoeDysEmXNJacAGcJU34vymcaZgVhpdY5ewGBSg3KNUChTptao8Cjk9iFAWfRHXV1jUBCgf6nVS",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1730000000,
+  "amount_out": 339354377729,
+  "price": 5.097915670271786e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T17:00:31.170012700Z",
+  "original_signature": "2tA5exnkR7KbSJmMoqK4Jw6NcPZh1RZoWVMHvLHSrQaUWcFrmcRx7C7fdgxP1p2Un7zH4bFMeDwhgx3APAkhX14F",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 25062762000,
+  "amount_out": 3632364638,
+  "price": 0.00014493073979635605,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T17:03:19.771179200Z",
+  "original_signature": "52shyFyWy3bQPf5BJqcX7miyM1abMaRLVteXVmXXSLfW21pLnEHFwtZ5ySWe6YiygH4fDQ6JxVPcV1GqRPJhTWAy",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 212211311000,
+  "amount_out": 1632526806,
+  "price": 7.692930213319308e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T17:08:36.523428500Z",
+  "original_signature": "2YLcYnXKUDi2jsq4FG6Qm5gr64t3P7KdMxS4bJrVTECdAVj1WNHvFWaGWthgAvSCtPD8cTBEUqdU1wvT7kpFNME5",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumAmmV4",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 2002847051000,
+  "amount_out": 2002847051000,
+  "price": 1.0,
+  "gas_fee": 1866600,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T17:08:47.014631900Z",
+  "original_signature": "jYRYwex18XNs3HCXzAHCcZZd4AkKsigMZ9JJDf1XiaNawJJgx1qfEwsj3aY1fbSMM3Dq3k88CC9oFBerB2Hwx6R",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 181208825000,
+  "amount_out": 2190575797,
+  "price": 0.000012088681646713399,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T17:08:49.491590400Z",
+  "original_signature": "5eFpsZcxKUDdJwFPFSykwwhTvzG785E12k34MksQdzRUPd2jhmG7wN9wWmfZxhNvqX4mabWNzyFv9FGzdXCc9MBd",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 181208826000,
+  "amount_out": 2258563683,
+  "price": 0.000012463872388864769,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T17:08:59.173105500Z",
+  "original_signature": "3oQWxwhMEVm2FfcrJfRbHRnMLAC6b9tnFgvRd9K8cziqdynUjS7rCWwwwNgSStYPxkvH3ArQJ1gb31PpSXjoxehK",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 1690000000,
+  "amount_out": 137843089665,
+  "price": 0.000012260317177358735,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T17:09:11.099846400Z",
+  "original_signature": "4iFqfTLwfEBkC69DUcMS5pPMgq1a2hcpThuQ9FbEseNi5XLGAdwsBCmom9LEwPdeWQ79SPFizJ42MoFAPHBPdorw",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 972366963000,
+  "amount_out": 1273162705,
+  "price": 1.3093438521111089e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T17:25:59.400344400Z",
+  "original_signature": "5KKW7Xz7EBuLBxtZZKqSXmNFUiGapGDtUi22NADwgtLf1xWXDi5FAz56FujsW3sFYj9RXepVkK7i85ekHrjLT267",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumAmmV4",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2650000000,
+  "amount_out": 2650000000,
+  "price": 1.0,
+  "gas_fee": 6205000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T17:26:10.257575400Z",
+  "original_signature": "53NCZupM8rURMXeSqhjfKe95doLkZTomLQwAeX6onoYMB259euFC4pA54diGD9JqkmQwVxXDXmxKi8BTqk9Zv2kR",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 2800000000,
+  "amount_out": 1220594387156,
+  "price": 2.2939643418515422e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-15T17:26:46.196071900Z",
+  "original_signature": "5ZgYC3MRbCux3iaWmFnviShsULQT9HG8SqXqj5zKqxvpsuXfXFHSLK7tWXVViiHrCJHvWUCi8taxqa6tfPkcHU1q",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": null,
+  "token_out_symbol": "SOL",
+  "amount_in": 288841112000,
+  "amount_out": 2609173832,
+  "price": 9.033249505008137e-6,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-16T01:43:57.088518300Z",
+  "original_signature": "5nfUmxumJ6BCMf1Dx6thoSto96Pj5KLdj4SbXut5V5AHiqyszycQknWzxoqjLP6NMiETQeQZPYfkKBkBrYP6WobC",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": null,
+  "amount_in": 3570000000,
+  "amount_out": 23932598150,
+  "price": 0.00014916892757003066,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}

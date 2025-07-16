@@ -1,0 +1,150 @@
+{
+  "timestamp": "2025-07-14T10:28:20.141167100Z",
+  "original_signature": "mock_trade_1",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "USDC",
+  "token_out_symbol": "SOL",
+  "amount_in": 25000000000,
+  "amount_out": 1000000,
+  "price": 25.0,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T10:28:22.257866400Z",
+  "original_signature": "mock_trade_2",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "PumpFun",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": "PUMP",
+  "amount_in": 500000000,
+  "amount_out": 1000000000,
+  "price": 0.0005,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T10:28:24.376331700Z",
+  "original_signature": "mock_trade_3",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "PumpFun",
+  "token_in_symbol": "PUMP",
+  "token_out_symbol": "SOL",
+  "amount_in": 1000000000000,
+  "amount_out": 500000,
+  "price": 2000.0,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T10:28:26.495246400Z",
+  "original_signature": "mock_trade_4",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": "USDC",
+  "amount_in": 1000000000,
+  "amount_out": 25000000,
+  "price": 0.04,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T10:28:28.618320200Z",
+  "original_signature": "mock_trade_5",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "USDC",
+  "token_out_symbol": "SOL",
+  "amount_in": 25000000000,
+  "amount_out": 1000000,
+  "price": 25.0,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T10:28:30.741238500Z",
+  "original_signature": "mock_trade_6",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "PumpFun",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": "PUMP",
+  "amount_in": 500000000,
+  "amount_out": 1000000000,
+  "price": 0.0005,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T10:28:32.856154300Z",
+  "original_signature": "mock_trade_7",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "PumpFun",
+  "token_in_symbol": "PUMP",
+  "token_out_symbol": "SOL",
+  "amount_in": 1000000000000,
+  "amount_out": 500000,
+  "price": 2000.0,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T10:28:34.973330200Z",
+  "original_signature": "mock_trade_8",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": "USDC",
+  "amount_in": 1000000000,
+  "amount_out": 25000000,
+  "price": 0.04,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T10:28:37.089601500Z",
+  "original_signature": "mock_trade_9",
+  "copy_signature": null,
+  "trade_direction": "Sell",
+  "dex_type": "RaydiumCPMM",
+  "token_in_symbol": "USDC",
+  "token_out_symbol": "SOL",
+  "amount_in": 25000000000,
+  "amount_out": 1000000,
+  "price": 25.0,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
+{
+  "timestamp": "2025-07-14T10:28:39.203862Z",
+  "original_signature": "mock_trade_10",
+  "copy_signature": null,
+  "trade_direction": "Buy",
+  "dex_type": "PumpFun",
+  "token_in_symbol": "SOL",
+  "token_out_symbol": "PUMP",
+  "amount_in": 500000000,
+  "amount_out": 1000000000,
+  "price": 0.0005,
+  "gas_fee": 5000,
+  "success": true,
+  "error_message": null
+}
